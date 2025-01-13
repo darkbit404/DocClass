@@ -23,7 +23,7 @@ Follow these steps to clone the repository, install the required dependencies, a
 ### Clone the Repository
 First, clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/document-classifier.git
+git clone https://github.com/darkbit404/document-classifier.git
 ```
 ### Navigate to the Project Directory
 Use cd command in windows terminal or windows powershell to navigate to the project directory.
