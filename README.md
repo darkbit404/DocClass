@@ -26,7 +26,7 @@ First, clone this repository to your local machine:
 git clone https://github.com/your-username/document-classifier.git
 ```
 ### Navigate to the Project Directory
-Use cd command in windows terminal or windows powershel to navigate to the project directory.
+Use cd command in windows terminal or windows powershell to navigate to the project directory.
 ```bash
 cd document classifier
 ```
