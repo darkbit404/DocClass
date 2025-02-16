@@ -14,8 +14,6 @@ The project follows a well-structured workflow to ensure effective document clas
 - **Classification Models**: Implements Random Forest for traditional machine learning and a custom neural network for deep learning.
 - **High Accuracy**: Achieves over 99.50% accuracy with Random Forest and above 99.18% accuracy with the deep learning model.
 
----
-
 ## Getting Started
 
 Follow these steps to clone the repository, install the required dependencies, and run the project.
